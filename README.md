@@ -1,4 +1,6 @@
-### Olá! me chamo Josy Kelly 👋
+### Olá! me chamo Josy Kelly👋
+### Sou estudante de física e análise e desenvolvimento de sistema 
+
 
 <!--
 **Jozpiu/Jozpiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
