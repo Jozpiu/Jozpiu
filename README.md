@@ -1,5 +1,6 @@
 ### Olá! me chamo Josy Kelly👋
-### Sou estudante de física e análise e desenvolvimento de sistema 
+### Sou estudante de física e análise e desenvolvimento de sistemas 
+No momento estou estudando c e c++
 
 
 <!--
